@@ -1,0 +1,1180 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/channel21.png" group-title="DE - DOKUMENTATION",(DE) Channel 21 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=89869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmf.png" group-title="DE - MUSIK",(DE) DMF
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184102&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Wuppertal
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184086&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Siegen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184085&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Münster
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184084&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Essen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184083&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Düsseldorf
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184082&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Duisburg
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184081&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Dortmund
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184080&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Bonn
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184079&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Bielefeld
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184078&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Aachen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184077&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Rheinland-Pfalz und Hessen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184092&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Nordrhein-Westfalen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184076&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Hamburg und Schleswig-Holstein
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184071&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Niedersachsen und Bremen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184067&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Bayern
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184059&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Hessen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184072&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Hamburg & Schleswig-Holstein
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184070&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Bremen & Niedersachsen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184066&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Nordrhein-Westfalen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184075&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Bayern
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184058&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Rhein-Neckar
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184047&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) MDR-Fernsehen Thüringen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184097&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) MDR-Fernsehen Sachsen-Anhalt
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184094&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Mecklenburg-Vorpommern
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184073&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Schleswig-Holstein
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184069&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Hamburg
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184068&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Salve TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184098&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Alltenburg TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184096&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RBW
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184095&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Glück Auf! TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184093&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK-TV Mainz
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184091&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK-TV Ludwigshafen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184090&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK Weinstraße
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184089&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK54 Trier
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184088&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184087&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NRWision
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184074&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) rbb Fernsehen Brandenburg
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184065&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Lausitz TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184064&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TVA Ostbayern
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184063&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TV Mainfranken
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184062&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TV Oberfranken
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184061&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Passau
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184060&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Deggendorf - Straubing
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184051&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Landshut
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184054&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RFO
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184057&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Oberpfalz TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184056&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) münchen.tv
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184055&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) tv.ingolstadt
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184053&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Franken Fernsehen
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184052&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) BR Fernsehen Nord
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184050&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) allgäu.tv
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184049&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) a.tv 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Das Erste ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ZDF ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sat.1 ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ProSieben ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184008&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Vox ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kabel Eins ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL Zwei ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184010&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ZDFinfo ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfneohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Zdf Neo ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Vox Up ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Tele 5 ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Super RTL ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sixx ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sat.1 Gold ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL Up ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ProSeiben Maxx ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184007&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Nitro ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kikahd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kika ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsdoku.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kabel Eins Doku ᵘˡᵗʳᵃ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Das Erste ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151348&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Zdf ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151331&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️RTL ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151343&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sat.1 ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151339&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️ProSieben ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151344&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Vox ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Kabel Eins ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151329&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE) RTL⚡️Zwei ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151342&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️ZDFinfo ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151330&extension=ts
+#EXTINF:-1 tvg-logo="http://195.154.237.61/PiconServer/picon.darkbox/DarkTVLogo/Logolar/welt.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Welt ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151332&extension=ts
+#EXTINF:-1 tvg-logo="http://195.154.237.61/PiconServer/picon.darkbox/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Vox Up ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151333&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Tele 5 ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151335&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Super RTL ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfneohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Zdfneo ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sixx ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151338&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sat.1 Gold ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151340&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/germany/super_rtl_de_hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️RTLup ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151341&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Pro7 Maxx ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151345&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/one.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️One ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151346&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Nitro ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151347&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmaxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️D Max ʰᵉᵛᶜ
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151349&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Das Erste 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4461&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDF 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4460&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4459&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 2 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4456&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4458&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Prosieben 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4457&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Vox 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4455&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Kabel 1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4454&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sixx 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4453&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Tele 5 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4452&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Nitro 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4451&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Super RTL 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4469&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFinfo 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4444&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFneo 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4443&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Gold 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4449&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxx.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ProSieben Maxx 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4450&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/germany/super_rtl_de_hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTLup 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=128150&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) VOXup 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=128151&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/3satdehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) 3 Sat 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4446&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Arte 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4445&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/onehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) One 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=60636&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Mdr 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/anixehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Anixe+ 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=89867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ardalpha.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ARD Alpha 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=89868&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rbb.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RBB Berlin HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=95041&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) BR 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4442&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) HR 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4441&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) SR 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) WDR 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=152467&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) NDR 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=152466&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/n24doku.png" group-title="DE - NACHRICHTEN",(DE) N24 DOKU
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3386&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - NACHRICHTEN",(DE) Welt 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=32692&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - NACHRICHTEN",(DE) N-TV 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=35768&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/phoenix.png" group-title="DE - NACHRICHTEN",(DE) Phoenix HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=50189&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - NACHRICHTEN",(DE) Tagesschau 24 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=35767&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Swr 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3273&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) QVC HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=122572&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Emotions HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=131808&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Nitro HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=49113&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlcrimehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Crime HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=61335&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Living HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3357&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Passion HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3353&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Hg TV HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4448&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Wdr HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4440&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ServusTV HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3346&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/weltderwunder.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Welt der Wunder HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=89862&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Radio Bremen HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=122573&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtvhd.png" group-title="DE - MUSIK",(DE) MTV 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4463&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jukebox.png" group-title="DE - MUSIK",(DE) Jukebox
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3400&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/deluxemusichd.png" group-title="DE - MUSIK",(DE) Deluxe Music 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4462&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/deutschesmusikfernsehen.png" group-title="DE - MUSIK",(DE) Schlager Deluxe HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3423&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Ballermann TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184103&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Volksmusik TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184105&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Schlagerparadies TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184104&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Folx Music Television
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184106&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) One Music Television
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184107&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Zwei Music Television
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184108&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray Classica
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184109&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray iConcerts
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184110&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray Djazz
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184111&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/germany/nick_jr_us.png" group-title="DE - KINDER",(DE) Nick JR
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=104857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/nn/nick_toons_us.png" group-title="DE - KINDER",(DE) NickToons
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=111971&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="DE - KINDER",(DE) Baby Tv
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=50076&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - KINDER",(DE) Junior
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=95040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kikahd.png" group-title="DE - KINDER",(DE) Kika 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4467&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/toggoplus.png" group-title="DE - KINDER",(DE) TOGGO plus
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3262&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMATION.jpg" group-title="DE - KINDER",(DE) Boomerang HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3429&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjunior.png" group-title="DE - KINDER",(DE) Disney Junior 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4465&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannelhd.png" group-title="DE - KINDER",(DE) Disney Channel 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4466&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nickelodeonhd.png" group-title="DE - KINDER",(DE) Nickelodeon 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4468&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetworkhd.png" group-title="DE - KINDER",(DE) Cartoon Network HD+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3426&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Micky Maus
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183873&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) PAW Patrol
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183871&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Peppa Wutz
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183870&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Rick and Morty
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Tom & Jerry TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183868&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Family Guy
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Scooby Doo
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183280&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Futurama
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183890&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Animation 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183443&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Animation 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183442&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) American Dad!
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183441&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Die Simpsons 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183271&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Die Simpsons 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183274&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) BoJack Horseman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183891&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Death Done
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183892&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Premieren 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=57012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Action 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4473&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema family.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Family 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4472&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Special 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=57014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky atlantic.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Atlantic 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4471&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky krimi.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Krimi 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3311&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ss/sky_de_cinema.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Classics 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=111970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Crime HD+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=123447&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Replay HD+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=123445&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137598&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 2 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137599&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 3 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137600&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 4 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137601&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 5 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137602&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 6 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137603&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 7 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137604&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 8 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=137605&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13thstreethd.png" group-title="DE - DEUTSCHE CINEMA",(DE) 13th Street 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3444&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Axn Black HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=170083&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Axn White HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3430&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/syfyhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) SyFy 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3271&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/heimatkanal.png" group-title="DE - DEUTSCHE CINEMA",(DE) Heimatkanal
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3404&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinowelttvhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Kinowelt TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3392&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenfunhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Prosieben Fun HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3370&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/romancetvhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Romance TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3363&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntcomedy.png" group-title="DE - DEUTSCHE CINEMA",(DE) WarnerTV Comedy 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=30699&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntfilmhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Warner Film 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3265&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntseriehd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Warner Serie 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3263&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/universalchannelhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Universal TV 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3261&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsclassicshd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Kabel 1 Classics HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3397&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHE CINEMA",(DE) PBB Live Event
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=165279&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHE CINEMA",(DE) Big Brother
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=171057&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Burt Reynolds
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184578&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sofia Boutella
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184255&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183219&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183220&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183221&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183222&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 5
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183223&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 6
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182186&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 7
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183224&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 8
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183225&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 9
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183226&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 10
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183227&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183282&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183283&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183284&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183285&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 5
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183286&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 6
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183287&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183419&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183434&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183435&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183436&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 5
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183288&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183289&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183290&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Disney Original
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Netflix
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183901&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Weihnachten
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183866&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Marvel 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184181&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Marvel 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184182&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) AL Pacino
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183235&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Andy Serkis
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Aamir Khan
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Angelina Jolie
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183828&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Audrey Hepburn
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183262&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Amanda Seyfried
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183954&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Anthony Hopkins 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184036&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Anthony Hopkins 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184230&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Batman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Brie Larson
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184223&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bruce Willes 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bruce Willes 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183239&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Chris Pine
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184172&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Cate Blanchett
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184122&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Christian Bale
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183852&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Cillian Murphy
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Charlie Chaplin
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151946&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Daniel Craig
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Denzel Washington 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Denzel Washington 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) DW Johnson 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183251&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) DW Johnson 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183252&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Eric Bana
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184178&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Fast & Furious
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Gary Oldman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183823&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Gemma Chan
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184035&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Harrison Ford
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184119&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Harry Potter
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=180509&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jean Reno
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183933&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) James Bond 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183233&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) James Bond 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183234&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jackie Chan 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182790&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jackie Chan 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182791&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jason Statham
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182561&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) J.C Van Damme 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183236&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) J.C Van Damme 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) John David
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184195&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Johnny Depp
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Joel Kinnaman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Keanu Reeves
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183231&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Knight Rider
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183279&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Neeson 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Neeson 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182760&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Hemsworth
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mel Gibson 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=92912&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mel Gibson 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Morgan Freeman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Nicolas Cage 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182931&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Nicolas Cage 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183928&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Odette Annable
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183962&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Ron Perlman
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=182822&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Russell Crowe
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184190&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=144867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Scott Adkins
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=149517&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Steven Seagal
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183232&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Samuel L. Jackson
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183228&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sylvester Stallone 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183229&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sylvester Stallone 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183230&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Simon Pegg
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184128&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Tom Hanks
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183249&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Vin Diesel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183250&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mr Bean
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151927&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Saw Sammlung
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) UFC Power Slap
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=180510&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Zooey Deschane
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=146967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Kung Fu Sammlung
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Hellraiser Sammlung
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151926&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Dragonball Z Sammlung
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=103293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bud Spencer & Terence Hil
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=183281&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mission Impossible Sammlung
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=151945&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) DYN SPORTS INFO
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178719&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 01
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178718&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 02
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178717&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 03
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178716&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 04
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178715&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 05
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178714&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 06
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178713&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 07
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178712&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 08
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178711&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) handball 09
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178710&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 01
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178709&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 02
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178708&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 03
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178707&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 04
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178706&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 05
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178705&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 06
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178704&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 07
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178703&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) volleyball 08
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178702&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 01
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178701&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 02
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178700&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 03
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178699&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 04
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178698&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 05
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178697&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 06
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178696&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 07
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178695&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 08
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178694&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) hockey 09
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178693&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) tabletennis 01
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178692&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) tabletennis 02
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178691&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) tabletennis 03
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178690&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) tabletennis 04
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178689&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) basketball 01
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178688&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) basketball 02
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178687&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) basketball 03
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178686&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175568&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175569&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175570&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175571&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175572&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175573&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175574&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175575&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175576&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175577&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175578&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175579&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 13 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175556&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 14 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175557&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 15 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175558&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 16 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175559&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 17 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175560&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 18 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175561&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 19 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175562&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Champions League 20 FHD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175563&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Nations League 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175564&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Nations League 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175565&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Nations League 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175566&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Uefa Nations League 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175567&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175593&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175594&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175595&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175596&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175597&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175598&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175599&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175600&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175601&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175602&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175603&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/bundesliga.png" group-title="DE - DAZN EVENTS",(DE) Bundesliga 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175604&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175641&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175642&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175643&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175644&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175645&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178860&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178859&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178858&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178856&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 13 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 14 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178852&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 15 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178851&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 16 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178850&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 17 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178849&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl Game Pass 18 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=178848&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175646&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175647&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175648&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175649&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/nfl.png" group-title="DE - DAZN EVENTS",(DE) Nfl 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175650&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175629&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175630&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175631&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175632&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175633&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175634&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175635&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175636&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175637&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175638&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175639&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/seriea.png" group-title="DE - DAZN EVENTS",(DE) Serie A 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175640&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175617&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175618&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175619&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175620&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175621&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175622&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175624&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175625&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175626&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175627&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/laliga.png" group-title="DE - DAZN EVENTS",(DE) Laliga 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175628&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175605&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175606&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175607&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175608&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175609&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175610&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175611&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175612&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 09 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175613&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175614&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175615&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligue1.png" group-title="DE - DAZN EVENTS",(DE) Ligue 1 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175616&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175585&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175586&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175587&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175588&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175589&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 06 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175590&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 07 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175591&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/dazn.png" group-title="DE - DAZN EVENTS",(DE) Landerspiele 08 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175592&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligaf.png" group-title="DE - DAZN EVENTS",(DE) Liga F 01 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175580&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligaf.png" group-title="DE - DAZN EVENTS",(DE) Liga F 02 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175581&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligaf.png" group-title="DE - DAZN EVENTS",(DE) Liga F 03 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175582&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligaf.png" group-title="DE - DAZN EVENTS",(DE) Liga F 04 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175583&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/ligaf.png" group-title="DE - DAZN EVENTS",(DE) Liga F 05 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175584&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 1 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=11236&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 2 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=11237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=45307&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 2 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=45308&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Amazon Prime 4k+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=147694&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4625&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 2 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119131&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 3 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119132&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 4 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119133&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 5 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119658&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 6 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119659&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 7 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119660&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Boxing TV  4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=179148&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Rally TV 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=175869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=142298&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1+ 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport1.png" group-title="DE - SPORTS",(DE) Teleclub Sport 1 HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=80305&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport2.png" group-title="DE - SPORTS",(DE) Teleclub Sport 2 HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=80306&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Bild Plus Sports 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=172341&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) Dazn Boxing
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=163987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/munchentv.png" group-title="DE - SPORTS",(DE) München TV 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=89863&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayern1.png" group-title="DE - SPORTS",(DE) FC Bayern TV HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=91386&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="DE - SPORTS",(DE) Eurosport 1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4622&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="DE - SPORTS",(DE) Eurosport 2 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4621&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/motorvisiontv.png" group-title="DE - SPORTS",(DE) Motorvision
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3390&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Auto motor sport channel HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=116643&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135183&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 2 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135182&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 3 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135181&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 4 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135180&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 5 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135179&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 6 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135178&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 7 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135177&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 8 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135176&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 9 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135175&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 10 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135174&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 11 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135173&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 12 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135172&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 13 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135171&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 14 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135170&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 15 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135169&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 16 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135168&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 17 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135167&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 1 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135166&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 2 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135165&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 3 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135164&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 4 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135163&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 5 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135162&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 6 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135161&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 7 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135160&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 8 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135159&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 9 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135158&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 10 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135157&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 11 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184252&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 12 4K+ (RTL+)
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184253&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) Glory / UFC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=118312&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) MS Sport 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168144&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168143&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38908&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 2 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38907&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 3 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38906&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 4 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38905&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 5 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 6 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=38903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 7 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=47987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 8 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=47988&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 9 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168142&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168141&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 11 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168140&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 12 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168139&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 13 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168138&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 14 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168137&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 15 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168136&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 16 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168135&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 17 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=168134&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4619&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3335&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3333&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3332&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3331&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3330&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3329&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 HEVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=119880&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3247&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3246&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3245&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3244&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga10hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/deutschland.png" group-title="F1 TV PRO ALL COUNTRY",(DE) Sky Sport F1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=170762&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportnewshd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport News 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4628&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Top Event 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=132617&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Premier League 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=132615&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Tennis 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=132614&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Golf 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=132613&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Mix 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=132612&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport F1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=112076&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport F1 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=148490&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 1 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=4627&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 2 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3296&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport3hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 3 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3295&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 4 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3294&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport5hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 5 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport6hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 6 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3292&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport7hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 7 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3291&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport8hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 8 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3290&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport9hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 9 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3289&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 10 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=120293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="DE - DOKUMENTATION",(DE) National Geographic 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7522&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="DE - DOKUMENTATION",(DE) Nat Geo Wild 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7523&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/crimeinvestigationus.png" group-title="DE - DOKUMENTATION",(DE) Crime + Investigation
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=45770&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png" group-title="DE - DOKUMENTATION",(DE) Animal Planet 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discovery.png" group-title="DE - DOKUMENTATION",(DE) Discovery 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=3421&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/skyhd.png" group-title="DE - DOKUMENTATION",(DE) Sky Documentaires 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=163464&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/skyhd.png" group-title="DE - DOKUMENTATION",(DE) Sky Nature 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=163463&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmax.png" group-title="DE - DOKUMENTATION",(DE) DMAX 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7526&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmax.png" group-title="DE - DOKUMENTATION",(DE) DMAX HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=127796&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="DE - DOKUMENTATION",(DE) TLC 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7527&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DOKUMENTATION",(DE) Kabel Eins Doku 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=48384&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="DE - DOKUMENTATION",(DE) History Channel 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7524&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/spiegelgeschichtehd.png" group-title="DE - DOKUMENTATION",(DE) Spiegel Geschichte 4K+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=7525&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Waidwerk
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184116&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) BonGusto
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184115&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Curiosity Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184114&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Bergblick
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184113&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) GEO Television 4K
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=135184&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) GEO Television
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:B3:6E:54&stream=184112&extension=ts
