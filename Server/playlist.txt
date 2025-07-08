@@ -1,0 +1,4 @@
+http://tellyflix.xyz:8080/get.php?username=Rh7BKPIGTn&password=3Nxsb01DaI&type=m3u_plus&output=ts
+http://tellyflix.xyz:8080/get.php?username=brunolopes&password=XK35tjPGns&type=m3u_plus&output=ts
+http://tellyflix.xyz:8080/get.php?username=Cc9q8ay7Qx&password=IXJG6r9LxK&type=m3u_plus&output=ts
+http://tellyflix.xyz:8080/get.php?username=d.oldroyd67&password=pdjUzEqPsu&type=m3u_plus&output=ts
